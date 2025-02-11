@@ -26,3 +26,6 @@ Write a function that takes an array and removes duplicate values, returning a n
 
 ## 9.Task: Capitalize the First Letter of Each Word
 Write a function that takes a sentence (string) and returns the sentence with the first letter of each word capitalized.
+
+## 10.Task: Reverse Words in a Sentence
+Write a function that reverses the words in a given sentence while keeping the word order intact.
