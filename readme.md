@@ -15,5 +15,8 @@ Create an array of objects representing cars with properties like `make`, `model
 ## 5. Task: Find and Modify
 Write a function that searches an array of objects for a specific person by name. If found, modify their `age` property. Print the updated array.
 
-## 6.1. Task: Find the Longest Word in an Array
+## 6. Task: Find the Longest Word in an Array
 Create a function that takes an array of words and returns the longest word. If there are multiple words with the same length, return the first one.
+
+## 7.Task: Sum of Even Numbers in an Array
+Write a function that takes an array of numbers and returns the sum of all even numbers.
