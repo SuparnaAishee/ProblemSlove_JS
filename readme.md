@@ -20,3 +20,6 @@ Create a function that takes an array of words and returns the longest word. If 
 
 ## 7.Task: Sum of Even Numbers in an Array
 Write a function that takes an array of numbers and returns the sum of all even numbers.
+
+## 3. Task: Remove Duplicates from an Array
+Write a function that takes an array and removes duplicate values, returning a new array with unique elements.
