@@ -29,3 +29,19 @@ Write a function that takes a sentence (string) and returns the sentence with th
 
 ## 10.Task: Reverse Words in a Sentence
 Write a function that reverses the words in a given sentence while keeping the word order intact.
+
+
+## 11. Task: Check if a String is a Palindrome
+Write a function that checks whether a given string is a palindrome (reads the same backward as forward).
+
+## 12. Task: Find the Second Largest Number in an Array
+Write a function that finds and returns the second largest number in a given array.
+
+## 13. Task: Convert an Object into a Query String
+Write a function that takes an object and converts it into a URL query string.
+
+## 14. Task: Chunk an Array into Smaller Arrays
+Write a function that splits an array into chunks of a given size.
+
+## 15. Task: Find the Intersection of Two Arrays
+Write a function that returns an array containing elements that are present in both input arrays.
